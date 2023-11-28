@@ -109,17 +109,46 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NALINI P
+RegisterNumber:  23009745
 */
 
 
+## code:
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/59f64f2e-2735-491f-bda7-8086fb74c51f)
 
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/02f2505c-b23f-477a-80b6-74252418018c)
 
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/35bc8760-b26f-48c2-963f-b6a7abcff2c2)
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/64a02259-5e61-430a-b818-baf0e6d6450d)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+SR FLIPFLOPS FOR RTL LOGIC:
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/709e1f58-100c-4611-bb6c-9102e5eb47cd)
+
+
+
+JK FLIPFLOPS FOR RTL LOGIC:
+
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/4c65dd23-a046-41e7-8742-f88802d75511)
+
+
+
+D FLIPFLOPS FOR RTL LOGIC:
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/83b7a152-b1bd-4294-8844-650c1fdf4588)
+
+
+
+
+T FLIPFLOPS FOR RTL LOGIC
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/0ba1501b-dc66-4b90-bd0f-e7285f4ef9bd)
 
 
 
@@ -131,10 +160,32 @@ RegisterNumber:
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
+SR FLIPFLOPS FOR TIMING DIGRAMS:
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/967f51cc-dee0-4c81-80bd-2dcb0ac4e2ac)
 
 
 
+
+JK FLIPFLOPS FOR TIMING DIGRAMS:
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/e56464f0-e13f-45c1-a6dc-ec2de6c2754f)
+
+
+
+D FLIPFLOPS FOR TIMING DIGRAMS:
+
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/607c9fff-405f-43e3-9be1-5b7212533bae)
+
+
+
+T FLIPFLOPS FOR TIMING DIGRAMS:
+
+
+![image](https://github.com/Nalini23009745/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149347484/1aadbf40-6b35-4627-a085-3e0a73d803c1)
 
 
 
 ### RESULTS 
+Implementation-of-flipflops-using-verilog successfully completed.
